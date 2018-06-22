@@ -1,0 +1,13 @@
+.\bazz.o: bazz.c
+.\bazz.o: stm32f10x.h
+.\bazz.o: ..\CORE\core_cm3.h
+.\bazz.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\bazz.o: system_stm32f10x.h
+.\bazz.o: stm32f10x_conf.h
+.\bazz.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\bazz.o: ..\USER\stm32f10x.h
+.\bazz.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\bazz.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\bazz.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\bazz.o: ..\STM32F10x_FWLib\inc\misc.h
+.\bazz.o: bazz.h
