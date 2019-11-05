@@ -9,7 +9,7 @@
    
 <div align=center><img width="500" height="500" src="https://github.com/PrideLee/Wind-Pendulum/blob/master/wind_pendulum_cover.png"/></div>
 
-<\center>
+</center>
 [![Watch the video](https://github.com/PrideLee/Wind-Pendulum/blob/master/wind_pendulum_cover.png)](https://github.com/PrideLee/Wind-Pendulum/blob/master/demo.mp4)
-<\center>
+<center>
 
