@@ -9,5 +9,4 @@
    
 
 <video src="https://github.com/PrideLee/Wind-Pendulum/blob/master/demo.mp4?raw=true" controls="controls"  autoplay="autoplay">
-您的浏览器不支持 video 标签。
 </video>   
