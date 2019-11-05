@@ -5,6 +5,7 @@
 - Using MPU6050 measure the pendulum angle, then calculating the position of bldcm by trigonometric formul. Based on the deviation of real position and expected position, PID algorithm output the duty cycle of PWM to control wind-pendulum's motion.
 
 **You can dowmload the demo from [here](https://github.com/PrideLee/Wind-Pendulum/blob/master/demo.mp4).**
+
 **You can dowmload the full report from [here](https://github.com/PrideLee/Wind-Pendulum/blob/master/%E9%A3%8E%E5%8A%9B%E6%91%86%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F_git.pdf).**
 
 
