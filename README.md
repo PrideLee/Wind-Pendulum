@@ -1,8 +1,6 @@
 # Wind-Pendulum
 
-- We design a wind-pendulum, through controling four blades' rotate speed to realize specific motion of wind-pendulum, such as line, cicle, Lissajous figure, cardioid, etc.
-- Hardwares include STM32F103 SCM, swing rod, cardan joint, laser pointer, keyboard, bldcm, propeller, MPU6050 Motion Tracking devices, and DC power supply.
-- Using MPU6050 measure the pendulum angle, then calculating the position of bldcm by trigonometric formul. Based on the deviation of real position and expected position, PID algorithm output the duty cycle of PWM to control wind-pendulum's motion.
+A wind-pendulum system was designed to controlling four blades' rotate speed to realize specific motion of wind-pendulum, such as line, round, Lissajous figure, cardioid, etc. The hardware includes STM32F103 SCM, swing rod, Cardan joint, laser pointer, keyboard, blades, propeller, MPU6050 Motion Tracking devices, and DC power supply. MPU6050 was used to measure the pendulum angle, then calculate the blades' position by the trigonometric formula. PID control algorithm generates the duty cycle of PWM to control wind pendulum's motion based on the deviation of the real position and expected position.
 
 **You can dowmload the demo from [here](https://github.com/PrideLee/Wind-Pendulum/blob/master/demo.mp4).**
 
